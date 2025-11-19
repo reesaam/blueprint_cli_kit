@@ -3,18 +3,19 @@
   BluePrint CLI for Flutter and Dart Projects
 </p>
 <p align="center">
+  <a href="https://pub.dev/packages/blueprint_cli_kit"><img src="https://img.shields.io/badge/pub-BluePrint CLI_on_pub.dev-blue?logo=dart" alt="Pub"></a>
+  <!-- GitHub Repo -->
+  <a href="https://github.com/reesaam/blueprint_cli_kit"><img src="https://img.shields.io/badge/repo-BluePrint_CLI_Kit-yellowgreen?logo=github" alt="build"></a>
+</p>
+<p align="center">
   <!-- Pub Version -->
   <a href="https://pub.dev/packages/blueprint_cli_kit"><img src="https://img.shields.io/pub/v/blueprint_cli_kit?logo=dart" alt="PubVersion"></a>
   <!-- Pub Points} -->
   <a href="https://pub.dev/packages/blueprint_cli_kit"><img src="https://img.shields.io/pub/points/blueprint_cli_kit?logo=dart" alt="PubPoints"></a>
-  <!-- GitHub Repo -->
-  <a href="https://github.com/reesaam/blueprint_cli_kit"><img src="https://img.shields.io/badge/repo-BluePrint_CLI_Kit-yellowgreen?logo=github" alt="build"></a>
   <!-- DartDoc -->
   <a href="https://pub.dev/documentation/blueprint_cli_kit/latest"><img src="https://img.shields.io/badge/dartdocs-latest-blue.svg" alt="Latest dartdocs"></a>
 </p>
-<p align="center">
-  <a href="https://pub.dev/packages/blueprint_cli_kit"><img src="https://img.shields.io/badge/pub-Dart_Mem_Annottaion_Generator_on_pub.dev-blue?logo=dart" alt="Pub"></a>
-</p>
+
 <p align="center">
   <a href="https://github.com/reesaam/blueprint_cli_kit"><img src="https://img.shields.io/badge/Android-black?logo=android" alt="android"></a>
   <a href="https://github.com/reesaam/blueprint_cli_kit"><img src="https://img.shields.io/badge/iOS-black?logo=apple" alt="ios"></a>
@@ -25,9 +26,7 @@
 
 </p>
 
-Mem Annotation Generator is a Code Generator Plugin to Generate Models, Entities and Mapper base on Annotation.
-This package designed to prevent adding extra codes to add Models, Entities and Mappers one by one.
-You can use it for Models, APIs and JSONs.
+BluePrint CLI, generate your project initially or add some features or components by just a command.
 
 ### Contents:
 * [Getting Started](#Getting-Started)
@@ -68,9 +67,9 @@ dart pub run build_runner build --delete-conflicting-outputs
 
 ### Resam Taghipour
 <a href="https://www.resam.site"><img src="https://img.shields.io/badge/Website-resam.site-blue" alt="Pub"></a>
-<a href="https://github.com/reesaam"><img src="https://img.shields.io/badge/GitHub-reesaam-black?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Freesaam" alt="account"></a>
-<a href="https://www.linkedin.com/in/resam"><img src="https://img.shields.io/badge/LinkedIn-resam-blue?logo=linkedin" alt="Pub"></a>
-<a href="emailto:resam@resam.site"><img src="https://img.shields.io/badge/Email-resam-important?logo=maildotru" alt="Pub"></a>
+<a href="https://github.com/reesaam"><img src="https://img.shields.io/badge/GitHub-github/reesaam-black?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Freesaam" alt="account"></a>
+<a href="https://www.linkedin.com/in/resam"><img src="https://img.shields.io/badge/LinkedIn-linkedin/resam-blue?logo=linkedin" alt="Pub"></a>
+<a href="emailto:resam@resam.site"><img src="https://img.shields.io/badge/Email-resam@resam.site-important?logo=maildotru" alt="Pub"></a>
 
 
 ## Packages and Dependencies
