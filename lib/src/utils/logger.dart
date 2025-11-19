@@ -7,3 +7,5 @@ debugLog(String log, {bool disabled = false}) =>
 
 releaseLog(String log, {bool disabled = false}) =>
     disabled == true && PackageDefaults.printReleaseLogs != true ? null : print('${PackageStrings.releaseLog}  $log');
+
+exceptionLog({FormatException? ex}) => print(ex?.message ?? PackageStrings.defaultErrorMessage);

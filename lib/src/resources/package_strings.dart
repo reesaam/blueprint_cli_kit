@@ -5,5 +5,6 @@ class PackageStrings {
   static const String releaseLog = 'LOG';
 
   /// Errors
-  static const String throwError = 'Something Went Wrong';
+  static const String defaultErrorMessage = 'Something Went Wrong';
+  static const String notFindCommand = 'Something Went Wrong';
 }
