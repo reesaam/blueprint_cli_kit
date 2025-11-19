@@ -1,4 +1,8 @@
-enum Flags {
+enum Commands {
+  create(
+    title: 'Create',
+    abbr: 'c',
+  ),
   verbose(
     title: 'Verbose',
     abbr: 'v',
@@ -11,12 +15,10 @@ enum Flags {
   final String title;
   final String abbr;
   final String? description;
-  final bool? negatable;
 
-  const Flags({
+  const Commands({
     required this.title,
     required this.abbr,
     this.description,
-    this.negatable,
   });
 }
