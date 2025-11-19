@@ -1,4 +1,4 @@
-name: Scanify Web Document Scanner Package Release
+name: BluePrint CLI Package Release
 
 on:
   push:
